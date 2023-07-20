@@ -8,10 +8,10 @@
 - Portuguese, English and French. 
 
 ### And about programming languages? Which ones have you some minimal mastery?
-- C and NASM assemblers. 
+- C.
 
 ### Which programming languages and technologies are you learning? 
-- Java, PHP, Pascal, Perl and all core technologies of web development.
+- Java, PHP, Pascal, Perl, NASM x86 Assembly and all core technologies of web development.
 
 ### Database? 
 - MongoDB.

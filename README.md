@@ -2,8 +2,11 @@
 My name is Gabriel, I'm 16 and brazilian. I've been studying low-level programming and Linux distributions for a reasonable time and now I'm starting with high-level one. 
 
 Languages: Portuguese (Native), English (C1), Latin (Just reading and writing), Russian (B1) and French (C1) 
-Some stuff I do like: C and NASM assemblers. 
+
+Some stuff that I do like: C and NASM assemblers. 
+
 Learning: Java, PHP, Pascal, Perl and all core technologies of web development.
+
 DB's: MongoDB.
 
 OS: Slackware Linux 15.0.

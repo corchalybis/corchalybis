@@ -1,15 +1,23 @@
 ### Hello everyone.
-My name is Gabriel, I'm 16 and brazilian. I've been studying low-level programming and Linux distributions for a reasonable time and now I'm starting with high-level one. 
 
-Languages: Portuguese (Native), English (C1), Latin (Just reading and writing), Russian (B1) and French (C1) 
+### Who am I?
 
-Some stuff that I do like: C and NASM assemblers. 
+- My name is Gabriel, I'm 16 and brazilian. I've been studying low-level programming and Linux distributions for a reasonable time and now I'm starting with high-level one. 
 
-Learning: Java, PHP, Pascal, Perl and all core technologies of web development.
+### Which languages do you speak?
+- Portuguese, English and French. 
 
-DB's: MongoDB.
+### And about programming languages? Which ones have you some minimal mastery?
+- C and NASM assemblers. 
 
-OS: Slackware Linux 15.0.
+### Which programming languages and technologies are you learning? 
+- Java, PHP, Pascal, Perl and all core technologies of web development.
+
+### Database? 
+- MongoDB.
+
+### Which is your operating system?
+- Slackware Linux 15.0.
 
 <!--
 **corchalybis/corchalybis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
